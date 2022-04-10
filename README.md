@@ -1,9 +1,10 @@
 # INTRODUCTION-TO-PROGRAMMING--EE1102
 
 THIS REPOSITORY CONSISTS THE CODES FOR ALL THE ASSIGNMENTS OF THE COURSE EE1102 - INTRODUCTION TO PROGRAMMING OF THE BATCH 2020.
+
 NOTE THAT THIS REPOSITORY IS JUST FOR THE ACADEMIC REFERENCE AND USAGE OF THIS REPOSITORY FOR MALPRACTICES IS NOT APPRECIATED.
 
 
 Contact Details -
- LinkedIn - https://www.linkedin.com/in/suhas-c-prabhu/
- Instagram - https://www.instagram.com/_c_suhas_572_/
+ - LinkedIn - https://www.linkedin.com/in/suhas-c-prabhu/
+ - Instagram - https://www.instagram.com/_c_suhas_572_/
