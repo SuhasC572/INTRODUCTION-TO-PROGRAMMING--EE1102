@@ -1,5 +1,0 @@
-r that is rate is not declared it should be declared as float.
-Main function int main is not declared
-scanf("%d", &p) at this statement semi colon is not present
-For formula : the formula was wrong
-
